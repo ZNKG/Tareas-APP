@@ -1,4 +1,4 @@
-# Webpack Starter 
+# Tareas-App
 
 Este es un laboratorio del curso JavaScript, es una aplicacion de checklist de tareas
 

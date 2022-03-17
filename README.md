@@ -1,6 +1,6 @@
 # Webpack Starter 
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es un laboratorio del curso JavaScript, es una aplicacion de checklist de tareas
 
 ### Notas:
 Recuerden reconstruir los modulos de Node
